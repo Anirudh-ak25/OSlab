@@ -1,2 +1,2 @@
-# OSlab
+# OSlab 
 >move terminal into editor area
